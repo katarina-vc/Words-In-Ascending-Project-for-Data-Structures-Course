@@ -7,7 +7,8 @@ Date: 6/28/2019
 *****Description:***********************************************************
 
 WordsInAscending.java:
- * displays words in ascending order of occurrence counts
+This program displays the words in a String variable called "text" in ascending order of the number of occurrences
+that word appears.
 
 ****** EXPECTED OUTPUT *******
 See "Screenshot of Expected Output" file.
