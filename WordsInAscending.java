@@ -3,7 +3,7 @@
  * Date: 6/2/2019
  * Assignment:	Project 4 COP3530 Data Structures
  * 
- * Description: Rewrite CountOccurenceOfWords.java to display the words in ascending order of occurrence counts
+ * Description: This program displays the words in the String "text" in ascending order of word occurrence counts.
  * 
 */
 
